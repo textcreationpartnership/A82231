@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the representations of the officers of the Navy. Concerning the impeached members of Parliament, transported beyond the seas. With a charge against some officers, who had commissions to raise forces to disturbe the peace of the kingdome. Also the Kings Majesties protestation, sent by Collonell Whaley.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82231</idno>
+            <idno type="STC">Wing D763</idno>
+            <idno type="STC">Thomason E405_6</idno>
+            <idno type="STC">ESTC R201876</idno>
+            <idno type="EEBO-CITATION">99862365</idno>
+            <idno type="PROQUEST">99862365</idno>
+            <idno type="VID">114522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114522)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the representations of the officers of the Navy. Concerning the impeached members of Parliament, transported beyond the seas. With a charge against some officers, who had commissions to raise forces to disturbe the peace of the kingdome. Also the Kings Majesties protestation, sent by Collonell Whaley.</title>
+                  <author>Whalley, Edward, d. 1675? Letter sent from Col: Whalley.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Ibbitson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Kings Majesties protestation" was also published as: Whalley, Edward. A letter sent from Col: Whaley (Wing W1528); it is a disavowal of: His Majesties declaration to all his loving subjects, concerning his gracious inclination for peace (Wing C2229).</note>
+                  <note>Annotation on Thomason copy: "Septemb: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>His Majesties declaration to all his loving subjects, concerning his gracious inclination for peace --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114522:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE REPRESENTATIONS OF THE OFFICERS of the NAVY.</p>
+            <p>CONCERNING The Impeached Members of Parlia<g ref="char:EOLhyphen"/>ment, <hi>Tranſported beyond the Seas.</hi>
+            </p>
+            <p>WITH <hi>A Charge againſt ſome Officers, who had Commiſsions to raiſe Forces to diſturbe the peace of the Kingdome.</hi>
+            </p>
+            <p>ALSO The KINGS MAJESTIES PROTESTATION, <hi>Sent by Collonell WHALEY.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114522:2"/>
+            <pb n="1" facs="tcp:114522:2"/>
+            <head>A Declaration of the Repreſentations of the Officers of the NAVY, <hi>Concerning the Impeached Members of Parliament Tranſported beyond the Seas.</hi>
+            </head>
+            <p>A Diurnall came to our hands on Mun<g ref="char:EOLhyphen"/>day <hi>Auguſt</hi> 16. which hath a paſſage, as we apprehend it, that hath done us unſuffe<g ref="char:EOLhyphen"/>rable wrong, we bleſſe God, our wayes are open to him that knows our Innocency: And to Vindicate our ſelves, we have upon ſerious thoughts, not to adde to the ſad diffe<g ref="char:EOLhyphen"/>rences of the times, VVe had rather ſuffer quietly; but however we deſire to cleare our ſelves, to thoſe who are our friends, of thoſe ſcandalls which ſo much tend to the prejudice of us.</p>
+            <p>Thoſe Gentlemen are now aboard, who have ſeen and heard the Truth, and will no queſtion ſatisfie accordingly, when they re<g ref="char:EOLhyphen"/>turne: In the meane time we ſhall faithful<g ref="char:EOLhyphen"/>ly, as in Gods preſence certifie the Truth.</p>
+            <pb n="2" facs="tcp:114522:3"/>
+            <p> The Members five of them tooke Bark at a Town by <hi>Quinborrough:</hi> Gave one <hi>Green</hi> 10 <hi>li.</hi> in hand, and were to give him 10 <abbr>
+                  <hi>li.</hi>
+               </abbr> more at their Landing at <hi>Callis,</hi> and to ſe<g ref="char:EOLhyphen"/>cure his Barque out and in at 60 <hi>li.</hi> Upon which he having received the money, put another to ſaile in her as Maſter; himſelfe went and got a VVarrant, ſaying the Mem<g ref="char:EOLhyphen"/>bers were gone without his conſent in his Barque: And with his VVarrant came to <hi>Feverſham,</hi> &amp; there told the Inhabitants that ſome Parliament men were gone away with 16 Cheſts and Portmantles full of Treaſure: upon which one <hi>Lamming,</hi> Maſter of a Dog<g ref="char:EOLhyphen"/>er-boat cauſed Drums to beat, thinking to gain the money, and came after them, they taking in a Pilate here, he came by Captain <hi>Pacy,</hi> Capt. of a ſmall frigot, and told him that ſome Parliament men were run away with a great deale of treaſure: Upon which Captain <hi>Pacy</hi> let ſlip his Anchors, ſet Saile &amp; made after them, and the Doger-boat never came neer them: but Capt. <hi>Pacy</hi> ſhooting one ſhot, they came in to him, &amp; he brought them into the <hi>Downes:</hi> Sir <hi>Philip Stapleton</hi> very ſick of a flux (who ſince is dead of the
+<pb n="3" facs="tcp:114522:3"/>ſickneſſe at <hi>Callice:</hi>) They lay aboard us all night. The Vice-admirall ſent Capt. <hi>Lam<g ref="char:EOLhyphen"/>ming,</hi> for Mr. <hi>Green,</hi> to ſee what they had to ſhew for their leaving the Kingdome, and to ſee if they had any thing againſt them: but they not returning till a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Clock next day, he judging they were aſhamed of ma<g ref="char:EOLhyphen"/>king ſuch an untrue ſtory, be called a Coun<g ref="char:EOLhyphen"/>cell of Warr: and there they produced their ſeverall, paſſes, Dated two dayes before, grounded on an Order of the Houſe of Commons upon their firſt Impeachment; which by the Councell of Warre was per<g ref="char:EOLhyphen"/>uſed: and at laſt it was reſolved to ſend Sir <hi>George Askue,</hi> Capt <hi>Crawley,</hi> Capt <hi>Pacy,</hi> and Lieutenant <hi>Penroſe,</hi> and divers others, to ſearch their Veſſell, which was accordingly, and exactly done, to their very pockets, and there was not much found, (onely they had Bills of Exchange).</p>
+            <p>So the Viceadmirall and the Councell of Warre not daring, having no Order to the contrary, and ſeeing Mr. <hi>Speakers</hi> Paſſe ſo lately Dated, did diſmiſſe them: in their lit<g ref="char:EOLhyphen"/>tle Veſſell to paſſe.</p>
+            <p>About two houres after their diſmiſſion
+<pb n="4" facs="tcp:114522:4"/>comes <hi>Lamming</hi> and <hi>Green,:</hi> and the Vice-admirall being at Dinner ſent for them in: Saw a VVarrant from the Captain of the Block-houſe, Directed <hi>To all Conſtables, &amp;c.</hi> He asked them which they thought would moſt direct him to act by? a private Cap<g ref="char:EOLhyphen"/>tains VVarrant, or an Order of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, and Paſſes under the <hi>Speakers</hi> hand? And that he was account<g ref="char:EOLhyphen"/>able for what he had done to both Hou<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>He alſo ſent Major <hi>Keme</hi> to intreat Col<g ref="char:EOLhyphen"/>lonell <hi>Twaſelltons</hi> Trooper to come in and drink a glaſſe of Wine, which he did: and we referre to him, if he had an uncivill word aboard.</p>
+            <p>Onely Major. <hi>Keme</hi> told Capt. <hi>Lamming,</hi> were he in the Army of the Councell of Warre, he would Vote him to be hanged, and he gave him this reaſon, that he knew he had a Commiſſion in his pocket, ſigned by ſome of thoſe Members to raiſe a Com<g ref="char:EOLhyphen"/>pany of Sea-men, to oppoſe the Army, and that he had received ten pounds to that pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>His Commiſſion he ſhewed the Vice-Admirall
+<pb n="11" facs="tcp:114522:4"/>and as aboard in Parchment, and this was all the reviling language.</p>
+            <p>Then for Threatning; this we know, that he hath been out in a Dogerboate all the Sum<g ref="char:EOLhyphen"/>mer: And hath when he ſhould have kept Sea, been lying a Shoare at <hi>Shoarum, Ha<g ref="char:EOLhyphen"/>ſtings,</hi> &amp;c. Drinking drunk and hath abu<g ref="char:EOLhyphen"/>ſed, and had not the <hi>Viz-admirall</hi> found out his Knavery have cheated the State; upon which he ſent him in. VVe as divers Cap<g ref="char:EOLhyphen"/>taines and other Officers, and Chaplins that ſtood by to the number of one hundred can teſtify. And God is our record it is truth: And further I can aſſure this.</p>
+            <p n="1">1 That Collo <hi>Hollis</hi> was not there then as is reported, but Sir <hi>William Waller,</hi> Sir <hi>Phillip Stapleton,</hi> Sir <hi>John Clotworthy,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Lewis,</hi> and Col: <hi>Long.</hi>
+            </p>
+            <p n="2">2 That Captaine <hi>Lamming</hi> is only Pot-va<g ref="char:EOLhyphen"/>lient, preferred from ſlavery in <hi>Argeire</hi> to be Maſter of a Doger-boatc laſt yeere, and he nor any with them ever fired a Musket.</p>
+            <p n="3">3 That the diſmiſſion was not by the Viz-Admirall but by a cleare voce of a Coun<g ref="char:EOLhyphen"/>cell of War.</p>
+            <p n="4">4 That we neither reviled him nor threatn<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:114522:5"/>him for that Act, Major <hi>Keme</hi> tould him he having ſuch a Commiſsion about him he might be hanged for beating up Drummer in the Country without other order.</p>
+            <closer>
+               <signed>Signed by the appointment of the Officers of the Navy.</signed>
+               <dateline>From Aboard the <hi>St. Andrew</hi> Admirall in the <hi>Downes,</hi> 
+                  <date>Aug. 26. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>THere is a Paper of the <hi>27</hi> inſtant, (Intituled <hi>His Majeſties Declaration</hi>) made publick, it is patronized upon the King, but I aſſure you His Majeſty is much abuſed in it: he hath many time to my ſelf and others, expreſſed, not onely his diſ-avowing, but utter diſlike of it; at firſt it ſomething troubled him, but is being ſo unlike any thing of his, and ſo contrary to his known intentions, be was con<g ref="char:EOLhyphen"/>fident it would not gain credence with any; yet ſince, hearing that di<g ref="char:EOLhyphen"/>vers both in City and Country, and Army, were ſo fondly credulous as to deem it to be His Majeſties, and ſo were much offended at it, it was the Kings Command I ſhould certifie my friends how extremely he is wronged, and truely Sir, you would doe the King but right, and diſ<g ref="char:EOLhyphen"/>charge I conceive no more then your own duty to indevour the finding out the Author, and making him exemplary, and I am confident the King expects ſo much Juſtice therein.</p>
+            <p>Here is little newes in Court more then this, that the King yeſter<g ref="char:EOLhyphen"/>day was a hunting in <hi>New Parke,</hi> killed a <hi>Stag</hi> and a <hi>Buck,</hi> af<g ref="char:EOLhyphen"/>terwards dined at <hi>Syon,</hi> ſtayed three or foure houres with his Child<g ref="char:EOLhyphen"/>ren, and then returned to <hi>Hampton,</hi> where there is great reſort of all ſorts of people to him, but not ſo many Cavaliers as is reported, it is confeſſed, no Gentleman is debarred the liberty of kiſſing the Kings, hand, yet no ſtranger ſtayes tong, we have freſh and freſh appear<g ref="char:EOLhyphen"/>ances, the faces which appeare in the morning, you ſeldome ſee in the afternoone; at the fartheſt, but the next day. The Lord <hi>Conoway</hi> hath taken his leave of the Court for preſent, I have no more to ac<g ref="char:EOLhyphen"/>quaint you with; I ſhall only again mind you, that to vindicate the King by diſcovering and puniſhing the Libeller, cannot but give great ſatisfa<g ref="char:EOLhyphen"/>ction to his Majeſty.</p>
+            <closer>
+               <dateline>Hampton Court. <date>Aug. 29. 1647.</date>
+               </dateline>
+               <signed>Edw. Whaley.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
